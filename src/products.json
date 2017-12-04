@@ -1,0 +1,32 @@
+{
+  "products":{
+    "items":[
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Samsung UN40J5200", "imageURL": "/images/Smart_TV_Samsung_UN40J5200.jpg", "price": "11999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV HD Noblex 32 EA32X5000X", "imageURL": "/images/Smart_TV_HD_Noblex_32_EA32X5000X.jpg", "price": "7499"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD Admiral 32K3110 32 Pulgadas", "imageURL": "/images/Smart_TV_Full_HD_Admiral_32K3110_32_Pulgadas.jpg", "price": "5999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD Admiral 49K3110", "imageURL": "/images/Smart_TV_Full_HD_Admiral_49K3110.jpg", "price": "11999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart tv HD Philips 32 PHG5102", "imageURL": "/images/Smart_tv_HD_Philips_32_PHG5102.jpg", "price": "6999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV HD JVC 32 LT32DA770", "imageURL": "/images/Smart_TV_HD_JVC_32_LT32DA770.jpg", "price": "7499"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV UHD 4K Philips 49 PUG6801-77", "imageURL": "/images/Smart_TV_UHD_4K_Philips_49_PUG6801-77.jpg", "price": "16999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD TCL 39S4900", "imageURL": "/images/Smart_TV_Full_HD_TCL_39S4900.jpg", "price": "9499"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV UHD 4K Hisense 50 HLE5015RTUX", "imageURL": "/images/Smart_TV_UHD_4K_Hisense_50_HLE5015RTUX.jpg", "price": "18999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV UHD 4K RCA 55 L55P1UHD", "imageURL": "/images/Smart_TV_UHD_4K_RCA_55_L55P1UHD.jpg", "price": "18999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Curvo UHD 4K Samsung 65 UN65KU6300", "imageURL": "/images/Smart_TV_Curvo_UHD_4K_Samsung_65_UN65KU6300.jpg", "price": "49999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV UHD 4K Sony XBR55X805E", "imageURL": "/images/Smart_TV_UHD_4K_Sony_XBR55X805E.jpg", "price": "41999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Curvo UHD 4K Samsung 65 UN65KU6300", "imageURL": "/images/Smart_TV_Curvo_UHD_4K_Samsung_65_UN65KU6300.jpg", "price": "54999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV UHD 4K Samsung 65 UN65MU6100", "imageURL": "/images/Smart_TV_UHD_4K_Samsung_65_UN65MU6100.jpg", "price": "49999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV UHD 4K Hisense 65 HLE6517RTUI", "imageURL": "/images/Smart_TV_UHD_4K_Hisense_65_HLE6517RTUI.jpg", "price": "46999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD Hisense 49 HLE4917RTF", "imageURL": "/images/Smart_TV_Full_HD_Hisense_49_HLE4917RTF.jpg", "price": "13999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD Hitachi 43 CDH-LE43SMART08", "imageURL": "/images/Smart_TV_Full_HD_Hitachi_43_CDH-LE43S.jpg", "price": "12999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV QLED UHD 4K 75 pulgadas Samsung QN75Q8C", "imageURL": "/images/Smart_TV_QLED_UHD_4K_75_pulgadas_Samsung_QN75Q.jpg", "price": "249999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD Admiral 43 K3110", "imageURL": "/images/Smart_TV_Full_HD_Admiral_43_K3110.jpg", "price": "10499"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD LG 43LJ5500", "imageURL": "/images/Smart_TV_Full_HD_LG_43LJ5500.jpg", "price": "13999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD Sanyo 43 LCE43IF26X", "imageURL": "/images/Smart_TV_Full_HD_Sanyo_43_LCE43IF26X.jpg", "price": "12499"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD Philips 49 PFG5501-77", "imageURL": "/images/Smart_TV_Full_HD_Philips_49_PFG5501-77.jpg", "price": "18999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV UHD 4K Admiral 60 AD60D1600UHD", "imageURL": "/images/Smart_TV_UHD_4K_Admiral_60_AD60D1600UHD.jpg", "price": "24999"},
+      {"_id": "54558ffb-f4ae-4c69-8670-750769e299a8", "name": "Smart TV Full HD Philips 49PFG5102-7", "imageURL": "/images/Smart_TV_Full_HD_Philips_49PFG5102-7.jpg", "price": "13499"}
+    ],
+    "item":{},
+    "autocomplete":[]
+  }
+}
