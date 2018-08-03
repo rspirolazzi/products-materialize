@@ -13,17 +13,17 @@ const products = require('./products.json')
 const store = configureStore(products)
 class App extends Component {
     render() {
-        return <Layout>
-            <Provider store={store}>
-                <HashRouter>
+        return <Provider store={store}>
+            <HashRouter>
+                <Layout>
                     <div>
                         <Route exact path="/" component={List}/>
                         <Route path="/product/:id" component={Product}/>
                         <Route path="/payment/:id" component={Payment}/>
                     </div>
-                </HashRouter>
-            </Provider>
-        </Layout>
+                </Layout>
+            </HashRouter>
+        </Provider>
     }
 }
 
